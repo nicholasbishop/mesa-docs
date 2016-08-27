@@ -6,77 +6,14 @@
 Experimental Mesa Documentation
 ===============================
 
-Documentation
--------------
-
 .. toctree::
    :maxdepth: 2
 
-   intro.rst
-   developers.rst
-   systems.rst
-   license.rst
-   faq.rst
-   relnotes.rst
-   thanks.rst
-   conform.rst
-
-Download / Install
-------------------
-
-.. toctree::
-   :maxdepth: 2
-
-   download.rst
-   install.rst
-   autoconf.rst
-   precompiled.rst
-
-Resources
----------
-
-.. toctree::
-   :maxdepth: 2
-
-   lists.rst
-   bugs.rst
-   webmaster.rst
-   Mesa/DRI Wiki <http://dri.freedesktop.org>
-
-User Topics
------------
-
-.. toctree::
-   :maxdepth: 2
-
-   shading.rst
-   egl.rst
-   opengles.rst
-   envvars.rst
-   osmesa.rst
-   debugging.rst
-   perf.rst
-   extensions.rst
-   mangling.rst
-   llvmpipe.rst
-   vmware-guest.rst
-   postprocess.rst
-   application-issues.rst
-   viewperf.rst
-
-Developer Topics
-----------------
-
-.. toctree::
-   :maxdepth: 2
-
-   repository.rst
-   sourcetree.rst
-   utilities.rst
-   helpwanted.rst
-   devinfo.rst
-   sourcedocs.rst
-   dispatch.rst
+   toc_general.rst
+   toc_download.rst
+   toc_resources.rst
+   toc_user_topics.rst
+   toc_developer_topics.rst
 
 
 Indices and tables
