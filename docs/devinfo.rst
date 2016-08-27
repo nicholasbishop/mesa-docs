@@ -260,8 +260,7 @@ about your review. That is, state either
 
         Reviewed-by: Joe Hacker <jhacker@foo.com>
 
-or
-::
+or::
 
         Acked-by: Joe Hacker <jhacker@foo.com>
 

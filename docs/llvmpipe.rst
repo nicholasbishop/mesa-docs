@@ -1,5 +1,5 @@
-Introduction
-============
+llvmpipe
+========
 
 The Gallium llvmpipe driver is a software rasterizer that uses LLVM to
 do runtime code generation. Shaders, point/line/triangle rasterization
@@ -98,8 +98,7 @@ On Linux, building will create a drop-in alternative for libGL.so into
 
       build/foo/gallium/targets/libgl-xlib/libGL.so
 
-or
-::
+or::
 
       lib/gallium/libGL.so
 

@@ -3,52 +3,80 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Mesa's documentation!
-================================
+Mesa Documentation
+==================
 
-Contents:
+Documentation
+-------------
 
 .. toctree::
    :maxdepth: 2
 
-   application-issues.rst
-   autoconf.rst
-   bugs.rst
-   conform.rst
-   debugging.rst
-   developers.rst
-   devinfo.rst
-   dispatch.rst
-   download.rst
-   egl.rst
-   envvars.rst
-   extensions.rst
-   faq.rst
-   helpwanted.rst
-   install.rst
    intro.rst
-   license.rst
-   lists.rst
-   llvmpipe.rst
-   mangling.rst
-   opengles.rst
-   osmesa.rst
-   perf.rst
-   postprocess.rst
-   precompiled.rst
-   relnotes.rst
-   repository.rst
-   shading.rst
-   sourcedocs.rst
-   sourcetree.rst
+   developers.rst
    systems.rst
+   license.rst
+   faq.rst
+   relnotes.rst
    thanks.rst
-   utilities.rst
-   versions.rst
-   viewperf.rst
-   vmware-guest.rst
+   conform.rst
+
+Download / Install
+------------------
+
+.. toctree::
+   :maxdepth: 2
+
+   download.rst
+   install.rst
+   autoconf.rst
+   precompiled.rst
+
+Resources
+---------
+
+.. toctree::
+   :maxdepth: 2
+
+   lists.rst
+   bugs.rst
    webmaster.rst
-   xlibdriver.rst
+   Mesa/DRI Wiki <http://dri.freedesktop.org>
+
+User Topics
+-----------
+
+.. toctree::
+   :maxdepth: 2
+
+   shading.rst
+   egl.rst
+   opengles.rst
+   envvars.rst
+   osmesa.rst
+   debugging.rst
+   perf.rst
+   extensions.rst
+   mangling.rst
+   llvmpipe.rst
+   vmware-guest.rst
+   postprocess.rst
+   application-issues.rst
+   viewperf.rst
+
+Developer Topics
+----------------
+
+.. toctree::
+   :maxdepth: 2
+
+   repository.rst
+   sourcetree.rst
+   utilities.rst
+   helpwanted.rst
+   devinfo.rst
+   sourcedocs.rst
+   dispatch.rst
 
 
 Indices and tables

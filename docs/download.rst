@@ -14,31 +14,23 @@ When a new release is coming, release candidates (betas) may be found
 Mesa releases are available in three formats: .tar.bz2, .tar.gz, and
 .zip
 
-To unpack .tar.gz files:
-
-::
+To unpack .tar.gz files::
 
         tar zxf MesaLib-x.y.z.tar.gz
 
-or
-::
+or::
 
         gzcat MesaLib-x.y.z.tar.gz | tar xf -
 
-or
-::
+or::
 
         gunzip MesaLib-x.y.z.tar.gz ; tar xf MesaLib-x.y.z.tar
 
-To unpack .tar.bz2 files:
-
-::
+To unpack .tar.bz2 files::
 
         bunzip2 -c MesaLib-x.y.z.tar.gz | tar xf -
 
-To unpack .zip files:
-
-::
+To unpack .zip files::
 
         unzip MesaLib-x.y.z.zip
 
